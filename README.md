@@ -27,7 +27,7 @@ vnet_array = {
   }  
 }  
 
-## 3. Subnet
+## 3. Subnets
 
 subnet_array = {  
   deussvcrafasn01 = {  
